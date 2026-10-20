@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and software development
 - 🌱 I’m currently learning reactjs & AI
 - 💞️ I’m looking to collaborate on upcoming projects
-- 📫 How to reach me: ohmztechsolution@gmail.com
+- 📫 How to reach me: omariohmz@gmail.com
 - ⚡ Fun fact: Coding and Football
 
 
